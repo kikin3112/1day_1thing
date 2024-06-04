@@ -1,4 +1,4 @@
 pip freeze > requirements.txt
 pip install -r requirements.txt
 
-ipykernel python-dotenv langchain langchain-community openai pypdf chromadb tiktoken umap-learn pandas matplotlib ipywidgets
+ipykernel python-dotenv langchain-openai langchain-community openai pypdf chromadb tiktoken umap-learn pandas matplotlib ipywidgets
