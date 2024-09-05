@@ -1,0 +1,71 @@
+﻿ID_PRODUCTO;STOCK;CATEGORÍA;REFERENCIA;COLOR;TALLA;PRECIO
+1;1;Sandalias;Morena ;Blanca;37;35000
+2;1;Sandalias;Morena ;Blanca;38;35000
+3;1;Sandalias;Morena ;Blanca;39;35000
+4;1;Sandalias;Morena ;Blanca;40;35000
+5;1;Sandalias;Morena ;Negro;38;35000
+6;1;Sandalias;Morena ;Negro;39;35000
+7;1;Sandalias;Morena ;Negro;40;35000
+8;2;Sandalias;Morena ;Plata;37;35000
+9;1;Sandalias;Morena ;Plata;38;35000
+10;1;Sandalias;Morena ;Plata;39;35000
+11;1;Sandalias;Morena ;Plata;40;35000
+12;1;Sandalias;Aldo;Taupe;37;50000
+13;1;Sandalias;Aldo;Taupe;38;50000
+14;1;Sandalias;Aldo;Miel;40;50000
+15;1;Sandalias;Yaper;Blanca;36;55000
+16;1;Sandalias;Yaper;Blanca;37;55000
+17;1;Sandalias;Yaper;Blanca;38;55000
+18;1;Sandalias;Yaper;Blanca;40;55000
+19;1;Sandalias;Yaper;Negro;37;55000
+20;1;Sandalias;Yaper;Negro;39;55000
+21;1;Sandalias;Yaper;Camel;38;55000
+22;1;Sandalias;Yaper;Camel;40;55000
+23;1;Sandalias;Brisa;Negro;37;65000
+24;1;Sandalias;Brisa;Negro;39;65000
+25;1;Sandalias;Brisa;Blanca;38;65000
+26;1;Sandalias;Sonia;Camel;38;60000
+27;1;Sandalias;Toty;Blanca;36;65000
+28;1;Sandalias;Toty;Blanca;37;65000
+29;1;Sandalias;Toty;Blanca;38;65000
+30;1;Sandalias;Toty;Blanca;39;65000
+31;1;Sandalias;Toty;Negro;37;65000
+32;1;Sandalias;Toty;Camel;38;65000
+33;1;Sandalias;Toty;Camel;39;65000
+34;1;Sandalias;Cayetana;Blanca;37;85000
+35;1;Sandalias;Cayetana;Blanca;39;85000
+36;1;Sandalias;Cayetana;Blanca;40;85000
+37;1;Sandalias;Cayetana;Negro;37;85000
+38;1;Sandalias;Cayetana;Negro;40;85000
+39;1;Sandalias;Chuchi;Perla;38;45000
+40;1;Sandalias;Chuchi;Plata;39;45000
+41;1;Sandalias;Chuchi;Oro;40;45000
+42;2;Sandalias;Agata ;Perla;38;35000
+43;1;Sandalias;Mima;Negro;40;55000
+44;1;Sandalias;Mima;Perla;36;55000
+45;1;Sandalias;Mima;Perla;38;55000
+46;1;Sandalias;Debora;Camel;37;45000
+47;1;Sandalias;Mariale;Blanca;38;35000
+48;1;Sandalias;Filomena;Oro Rosa;36;60000
+49;1;Sandalias;Filomena;Oro Rosa;38;60000
+50;1;Tacón;Jennifer;Taupe;36;85000
+51;1;Tacón;Alison ;Nude;40;120000
+52;1;Sandalias Kids;Nieves;Champaña;25;55000
+53;1;Sandalias Kids;Nieves;Champaña;29;55000
+54;1;Sandalias Kids;Lucy ;Blanco;29;55000
+55;1;Sandalias Kids;Lucy ;Plata;32;55000
+56;1;Sandalias Kids;Lucy ;Blanco;32;55000
+57;2;Blusa Americana;Straple;Lila;Única;25000
+58;1;Blusa Americana;Straple;Salmón;Única;25000
+59;2;Blusa Americana;Boleros;Negro;Única;25000
+60;2;Blusa Americana;Boleros;Nude;Única;25000
+61;1;Blusa Americana;Boleros;Beige;Única;25000
+62;1;Blusa Americana;Cruzada ;Blanco;Única;25000
+63;1;Blusa Americana;Cruzada ;Nude;Única;25000
+64;1;Blusa Americana;Zizina;Rosa Pastel;Única;25000
+65;1;Blusa Americana;Zizina;Fuscia;Única;25000
+66;1;Blusa Americana;Dinive;Lila;Única;25000
+67;1;Blusa Americana;Dinive;Blanca;Única;25000
+68;1;Blusa Formal;Moños;Lila;Única;55000
+69;1;Bolso;Morral Coach;Negro y Beige;No Aplica;135000
+70;1;Bolso;Morral Coach;Blanco y Beige;No Aplica;125000
